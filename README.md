@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huang-emily
-- 👀 I’m interested in Environmental Data Science & Analytics.
+- 👀 I’m interested in Data Science & Analytics.
 - 🌱 I’m currently refreshing my knowledge in Data Science.
 - 📫 How to reach me: email! 
 - 😄 Pronouns: she/they
